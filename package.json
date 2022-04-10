@@ -4,7 +4,8 @@
   "description": "making calculator using node",
   "main": "caclulator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "calculator.js"
   },
   "author": "bala",
   "license": "ISC",
